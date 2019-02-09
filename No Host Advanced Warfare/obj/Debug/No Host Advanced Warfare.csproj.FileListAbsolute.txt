@@ -1,0 +1,11 @@
+c:\users\utilisateur_\documents\visual studio 2012\Projects\No Host Advanced Warfare\No Host Advanced Warfare\bin\Debug\No Host Advanced Warfare.exe.config
+c:\users\utilisateur_\documents\visual studio 2012\Projects\No Host Advanced Warfare\No Host Advanced Warfare\bin\Debug\No Host Advanced Warfare.exe
+c:\users\utilisateur_\documents\visual studio 2012\Projects\No Host Advanced Warfare\No Host Advanced Warfare\bin\Debug\No Host Advanced Warfare.pdb
+c:\users\utilisateur_\documents\visual studio 2012\Projects\No Host Advanced Warfare\No Host Advanced Warfare\bin\Debug\PS3Lib.dll
+c:\users\utilisateur_\documents\visual studio 2012\Projects\No Host Advanced Warfare\No Host Advanced Warfare\bin\Debug\PS3Lib.pdb
+c:\users\utilisateur_\documents\visual studio 2012\Projects\No Host Advanced Warfare\No Host Advanced Warfare\obj\Debug\No Host Advanced Warfare.csprojResolveAssemblyReference.cache
+c:\users\utilisateur_\documents\visual studio 2012\Projects\No Host Advanced Warfare\No Host Advanced Warfare\obj\Debug\No_Host_Advanced_Warfare.Form1.resources
+c:\users\utilisateur_\documents\visual studio 2012\Projects\No Host Advanced Warfare\No Host Advanced Warfare\obj\Debug\No_Host_Advanced_Warfare.Properties.Resources.resources
+c:\users\utilisateur_\documents\visual studio 2012\Projects\No Host Advanced Warfare\No Host Advanced Warfare\obj\Debug\No Host Advanced Warfare.csproj.GenerateResource.Cache
+c:\users\utilisateur_\documents\visual studio 2012\Projects\No Host Advanced Warfare\No Host Advanced Warfare\obj\Debug\No Host Advanced Warfare.exe
+c:\users\utilisateur_\documents\visual studio 2012\Projects\No Host Advanced Warfare\No Host Advanced Warfare\obj\Debug\No Host Advanced Warfare.pdb
